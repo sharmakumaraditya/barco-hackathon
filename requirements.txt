@@ -13,6 +13,6 @@ tensorflow
 flask
 weather-api
 requests
-opencv-python
+opencv-python==2.4.9
 SpeechRecognition
 

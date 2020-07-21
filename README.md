@@ -1,5 +1,5 @@
 # Shravan Applications
-software for blind and Old Aged People
+Software for Blind and Old Aged People
 
 # Instructions
 * Download and setup tensorflow models
